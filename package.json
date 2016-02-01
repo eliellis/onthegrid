@@ -1,0 +1,22 @@
+{
+  "name": "onthegrid",
+  "version": "0.0.2",
+  "description": "EventStream implimentation of online and offline internet connectivity.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "online",
+    "internet",
+    "status",
+    "connection",
+    "network"
+  ],
+  "author": "Elijah Ellis",
+  "license": "MIT",
+  "dependencies": {
+    "is-online": "^5.0.1",
+    "q": "^1.4.1"
+  }
+}
